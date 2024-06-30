@@ -10,3 +10,4 @@ class Pin {
 
   Pin(this.pin);
 }
+
